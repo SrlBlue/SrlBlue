@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrlBlue
 - 👀 I’m interested in 
 - 🌱 I’m currently learning to consistently and effectively deploy azure resources using ARM templates
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything i can get my hands on
 - 📫 How to reach me ...
 
 <!---
