@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SrlBlue
-- 👀 I’m interested in 
+- 👀 I’m interested in Cloud Computing, IT and  
 - 🌱 I’m currently learning to consistently and effectively deploy azure resources using ARM templates
-- 💞️ I’m looking to collaborate on anything i can get my hands on
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything I can get my hands on
+
 
 <!---
 SrlBlue/SrlBlue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
